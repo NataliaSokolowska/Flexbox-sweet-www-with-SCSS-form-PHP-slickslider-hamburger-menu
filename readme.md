@@ -1,6 +1,6 @@
 # Sweet www with Flexbox, PHP form, SlickSlider.js, Hamburger Menu
 
-You can see the project - [click the link to view the project](https://github.com/NataliaSokolowska/Flexbox-sweet-www-with-SCSS-form-PHP-slickslider-hamburger-menu)
+You can see the project - [click the link to view the project]( (https://nataliasokolowska.github.io/Flexbox-sweet-www-with-SCSS-form-PHP-slickslider-hamburger-menu/dist/index.html)
 
 ## Tech
 * [JavaScript](http://devdocs.io/javascript/) - vanilla JavaScript
