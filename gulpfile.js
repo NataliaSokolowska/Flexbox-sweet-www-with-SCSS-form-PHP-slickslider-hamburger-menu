@@ -25,7 +25,7 @@ var config = {
   jsout: 'dist/js/',
   imgout: 'dist/img/',
   htmlout: 'dist/',
-  scssout: 'dist/css/',
+  scssout: 'src/css/',
   cssoutname: 'style.css',
   jsoutname: 'script.js',
   cssreplaceout: 'css/style.css',
